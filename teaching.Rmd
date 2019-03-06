@@ -1,7 +1,13 @@
 ---
 title: "Teaching"
 ---
-### Iowa State University- Department of Statistics
+##### Iowa State University- Department of Statistics
+
+Fall 2018: Principles of Statistics Lab
+
+Fall 2019: Princples of Statistics Lab
 
 
-### St. Olaf College- Department of Mathematics, Statistics, and Computer Science
+##### St. Olaf College- Department of Mathematics, Statistics, and Computer Science
+
+Fall 2017: Statistical Modeling R Tutorial
