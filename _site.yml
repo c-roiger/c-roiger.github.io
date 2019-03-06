@@ -14,6 +14,8 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: http://github.com/c-roiger
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/charlotte-roiger-7b9405117/
     - icon: fa-twitter fa-lg
       href: https://twitter.com/CharlotteRoiger
 
