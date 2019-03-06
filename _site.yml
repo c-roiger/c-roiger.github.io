@@ -1,0 +1,11 @@
+name: "Charlotte N. Roiger"
+output_dir: "."
+navbar:
+  title: "Charlotte N. Roiger"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
