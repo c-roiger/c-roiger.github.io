@@ -8,13 +8,13 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Iowa State University- Department of Statistics
+## Iowa State University
 
 Fall 2018: Principles of Statistics Lab
 
 Fall 2019: Princples of Statistics Lab
 
 
-## St. Olaf College- Department of Mathematics, Statistics, and Computer Science
+## St. Olaf College
 
 Fall 2017: Statistical Modeling R Tutorial
