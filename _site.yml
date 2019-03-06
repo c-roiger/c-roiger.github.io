@@ -11,7 +11,8 @@ navbar:
       href: speaking.html
     - text: "Teaching"
       href: teaching.html
-right:
+      
+  right:
     - icon: fa-github fa-lg
       href: http://github.com/c-roiger
     - icon: fa-twitter fa-lg
