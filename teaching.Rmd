@@ -8,13 +8,10 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Iowa State University
+## Solo Instructor
 
-Fall 2018: Principles of Statistics Lab
+*   **Math 226/267: Elementary Differential Equations**
+    Iowa State University, Ames IA, Summer 2018
 
-Fall 2019: Princples of Statistics Lab
-
-
-## St. Olaf College
-
-Fall 2017: Statistical Modeling R Tutorial
+*   **Math 226/267: Elementary Differential Equations**
+    Iowa State University, Ames IA, Summer 2017
