@@ -1,7 +1,7 @@
-name: "Charlotte N. Roiger"
+name: "Alexander W. Neal Riasanovsky"
 output_dir: "."
 navbar:
-  title: "Charlotte N. Roiger"
+  title: "Alexander W. Neal Riasanovsky"
   left:
     - text: "Home"
       href: index.html
