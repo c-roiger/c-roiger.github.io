@@ -16,7 +16,7 @@ output:
 *   **Math 226/267: Elementary Differential Equations**
     Iowa State University, Ames IA, Summer 2017
     
-## Recitation Instructur
+## Recitation Instructor
 
 *   **Math 140: College Algebra**
     Iowa State University, Ames IA, Fall 2017
